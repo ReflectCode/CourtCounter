@@ -1,0 +1,100 @@
+﻿
+
+/* Class = "UINavigationItem" title="CourtCounter" ObjectID = "MainViewController-Nav-ID" */
+"MainViewController-Nav-ID.title"  = "CourtCounter";
+
+/* Class = "UILabel" text="Team A" ObjectID = "RC-ID-10004" */
+"RC-ID-10004.text" = "Team A";
+
+/* Class = "UILabel" text="0" ObjectID = "team-a-score" */
+"team-a-score.text" = "0";
+
+/* Class = "UIButton" normalTitle="+3 points" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.normalTitle" = "+3 points";
+
+/* Class = "UIButton" disabledTitle="+3 points" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.disabledTitle" = "+3 points";
+
+/* Class = "UIButton" selectedTitle="+3 points" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.selectedTitle" = "+3 points";
+
+/* Class = "UIButton" highlightedTitle="+3 points" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.highlightedTitle" = "+3 points";
+
+/* Class = "UIButton" normalTitle="+2 points" ObjectID = "RC-ID-10007" */
+"RC-ID-10007.normalTitle" = "+2 points";
+
+/* Class = "UIButton" disabledTitle="+2 points" ObjectID = "RC-ID-10007" */
+"RC-ID-10007.disabledTitle" = "+2 points";
+
+/* Class = "UIButton" selectedTitle="+2 points" ObjectID = "RC-ID-10007" */
+"RC-ID-10007.selectedTitle" = "+2 points";
+
+/* Class = "UIButton" highlightedTitle="+2 points" ObjectID = "RC-ID-10007" */
+"RC-ID-10007.highlightedTitle" = "+2 points";
+
+/* Class = "UIButton" normalTitle="free throw" ObjectID = "RC-ID-10008" */
+"RC-ID-10008.normalTitle" = "free throw";
+
+/* Class = "UIButton" disabledTitle="free throw" ObjectID = "RC-ID-10008" */
+"RC-ID-10008.disabledTitle" = "free throw";
+
+/* Class = "UIButton" selectedTitle="free throw" ObjectID = "RC-ID-10008" */
+"RC-ID-10008.selectedTitle" = "free throw";
+
+/* Class = "UIButton" highlightedTitle="free throw" ObjectID = "RC-ID-10008" */
+"RC-ID-10008.highlightedTitle" = "free throw";
+
+/* Class = "UILabel" text="Team B" ObjectID = "RC-ID-10011" */
+"RC-ID-10011.text" = "Team B";
+
+/* Class = "UILabel" text="0" ObjectID = "team-b-score" */
+"team-b-score.text" = "0";
+
+/* Class = "UIButton" normalTitle="+3 points" ObjectID = "RC-ID-10013" */
+"RC-ID-10013.normalTitle" = "+3 points";
+
+/* Class = "UIButton" disabledTitle="+3 points" ObjectID = "RC-ID-10013" */
+"RC-ID-10013.disabledTitle" = "+3 points";
+
+/* Class = "UIButton" selectedTitle="+3 points" ObjectID = "RC-ID-10013" */
+"RC-ID-10013.selectedTitle" = "+3 points";
+
+/* Class = "UIButton" highlightedTitle="+3 points" ObjectID = "RC-ID-10013" */
+"RC-ID-10013.highlightedTitle" = "+3 points";
+
+/* Class = "UIButton" normalTitle="+2 points" ObjectID = "RC-ID-10014" */
+"RC-ID-10014.normalTitle" = "+2 points";
+
+/* Class = "UIButton" disabledTitle="+2 points" ObjectID = "RC-ID-10014" */
+"RC-ID-10014.disabledTitle" = "+2 points";
+
+/* Class = "UIButton" selectedTitle="+2 points" ObjectID = "RC-ID-10014" */
+"RC-ID-10014.selectedTitle" = "+2 points";
+
+/* Class = "UIButton" highlightedTitle="+2 points" ObjectID = "RC-ID-10014" */
+"RC-ID-10014.highlightedTitle" = "+2 points";
+
+/* Class = "UIButton" normalTitle="free throw" ObjectID = "RC-ID-10015" */
+"RC-ID-10015.normalTitle" = "free throw";
+
+/* Class = "UIButton" disabledTitle="free throw" ObjectID = "RC-ID-10015" */
+"RC-ID-10015.disabledTitle" = "free throw";
+
+/* Class = "UIButton" selectedTitle="free throw" ObjectID = "RC-ID-10015" */
+"RC-ID-10015.selectedTitle" = "free throw";
+
+/* Class = "UIButton" highlightedTitle="free throw" ObjectID = "RC-ID-10015" */
+"RC-ID-10015.highlightedTitle" = "free throw";
+
+/* Class = "UIButton" normalTitle="reset" ObjectID = "RC-ID-10017" */
+"RC-ID-10017.normalTitle" = "reset";
+
+/* Class = "UIButton" disabledTitle="reset" ObjectID = "RC-ID-10017" */
+"RC-ID-10017.disabledTitle" = "reset";
+
+/* Class = "UIButton" selectedTitle="reset" ObjectID = "RC-ID-10017" */
+"RC-ID-10017.selectedTitle" = "reset";
+
+/* Class = "UIButton" highlightedTitle="reset" ObjectID = "RC-ID-10017" */
+"RC-ID-10017.highlightedTitle" = "reset";
